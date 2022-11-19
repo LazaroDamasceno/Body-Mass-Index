@@ -1,5 +1,7 @@
 # Body-Mass-Index
 
+![Animação](https://user-images.githubusercontent.com/62726118/202832132-87d73fcb-d0cc-477f-a621-08c33e3f5e74.gif)
+
 ## What to do this repository is downloaded or git cloned
 
 After the download or the git clone is to type on CMD **npm install**, due to the GitHub does not push the node modules.
