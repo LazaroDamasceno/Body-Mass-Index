@@ -1,6 +1,6 @@
 # Body-Mass-Index
 
-![Animação](https://user-images.githubusercontent.com/62726118/202832132-87d73fcb-d0cc-477f-a621-08c33e3f5e74.gif)
+![Animação](https://user-images.githubusercontent.com/62726118/202832222-1b5242f6-004e-4d13-8069-ac3025e8ffe2.gif)
 
 ## What to do this repository is downloaded or git cloned
 
