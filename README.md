@@ -8,7 +8,7 @@ The **npm install** install the node modules that are required to run this React
 
 ## Setting the PC
 
-It is necessary to have installed on the PC the [Node](https://nodejs.org/en/).
+It is necessary to have installed on the PC the [NodeJS](https://nodejs.org/en/).
 
 It is highly recommend to have, at least, the LTS version or the newest one.
 
