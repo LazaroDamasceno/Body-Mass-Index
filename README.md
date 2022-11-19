@@ -16,7 +16,7 @@ It is highly recommend to have, at least, the LTS version or the newest one.
 
 To create a React-JS app is necessary to type on CMD **npm create vite@latest project-name -- --template react" if the npm's version is 7+ or **npm create vite@latest project-name --template react" if the npm's version is 6.x.
 
-After that, also type on CMD **npm install**.
+After that, also type **npm install**.
 
 ## How to run a React-JS app
 
