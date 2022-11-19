@@ -26,4 +26,4 @@ To run this app type on CMD **npm run dev**.
 
 [Official documentation of how create with Vite](https://www.npmjs.com/package/create-vite).
 
-To check the version of the npm, type on CMD **npm --version**. The same works for the NodeJS' version. It just necessary to swith "npm" to "node" in the commandline.
+To check the version of the npm, type on CMD **npm --version**. The same works for the NodeJS' version. It just necessary to switch "npm" to "node" in the commandline.
