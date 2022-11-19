@@ -23,3 +23,5 @@ After that, also type **npm install**.
 To run this app type on CMD **npm run dev**.
 
 ## Notes
+
+[Official documentation of how create with Vite](https://www.npmjs.com/package/create-vite).
